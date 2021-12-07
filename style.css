@@ -35,6 +35,26 @@ ul{
     display:inline;
     vertical-align: middle;
 }
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+
+}
+.nav ul li a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.bc ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+
+}
+.bc ul li a:hover{
+    text-decoration: underline;
+    color: black;
+}
 .bc li{
     display:inline; 
 }
